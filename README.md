@@ -54,7 +54,7 @@ cd diabetes-prediction-system
 
 ```
 
-# Install dependencies
+**Install dependencies**
 
 ```
 
@@ -74,7 +74,7 @@ python app.py
 
 # 🌐 Live Demo
 
-👉 Try the App on Hugging Face Spaces (huggingface.co in Bing)
+👉 Try the App on Hugging Face Spaces: https://huggingface.co/spaces/rubina25/Diabetes-Prediction-System
 
 ---
 
