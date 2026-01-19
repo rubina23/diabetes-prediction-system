@@ -112,9 +112,3 @@ GitHub: your-username (github.com in Bing)
 This project is for educational purposes and demonstrates end-to-end ML workflow.
 
 Not intended for real medical diagnosis.
-
-```
-
-```
-
-Healthcare-focused ML project: Diabetes prediction system built with scikit-learn, featuring preprocessing, model optimization, and a user-friendly Gradio interface. Deployed on Hugging Face Spaces for public access.
