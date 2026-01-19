@@ -12,7 +12,7 @@ This project uses the **Pima Indians Diabetes Dataset** from [Kaggle](https://ww
 ├── diabetes.csv            # Dataset
 ├── requirements.txt        # Dependencies
 ├── README.md               # Project documentation
-├── diabetes_model.pkl      # Project documentation
+├── diabetes_model.pkl      # Saved model
 └── diabetes_train.ipynb    # model trained
 
 ```
@@ -52,50 +52,67 @@ This project uses the **Pima Indians Diabetes Dataset** from [Kaggle](https://ww
 git clone https://github.com/your-username/diabetes-prediction-system.git
 cd diabetes-prediction-system
 
+```
+
 # Install dependencies
+
+```
+
 pip install -r requirements.txt
 
-# Run Gradio app
+```
+
+**Run Gradio app**
+
+```
+
 python app.py
+
+```
 
 ---
 
-🌐 Live Demo
+# 🌐 Live Demo
+
 👉 Try the App on Hugging Face Spaces (huggingface.co in Bing)
 
-📊 Sample Input/Output
+---
 
+# 📊 Sample Input/Output
 
-| Pregnancies | Glucose | BloodPressure | SkinThickness | Insulin | BMI  | DiabetesPedigreeFunction | Age | Prediction     |
-|-------------|---------|---------------|---------------|---------|------|--------------------------|-----|----------------|
-| 2           | 120     | 70            | 25            | 80      | 28.5 | 0.45                     | 35  | Not Diabetic   |
-| 6           | 165     | 90            | 35            | 200     | 33.2 | 0.75                     | 50  | Diabetic       |
+| Pregnancies | Glucose | BloodPressure | SkinThickness | Insulin | BMI  | DiabetesPedigreeFunction | Age | Prediction   |
+| ----------- | ------- | ------------- | ------------- | ------- | ---- | ------------------------ | --- | ------------ |
+| 2           | 120     | 70            | 25            | 80      | 28.5 | 0.45                     | 35  | Not Diabetic |
+| 6           | 165     | 90            | 35            | 200     | 33.2 | 0.75                     | 50  | Diabetic     |
 
+---
 
+# 📈 Results
 
-Pregnancies	Glucose	BloodPressure	SkinThickness	Insulin	BMI	DiabetesPedigreeFunction	Age	Prediction
-2	120	70	25	80	28.5	0.45	35	Not Diabetic
-6	165	90	35	200	33.2	0.75	50	Diabetic
+- Cross-Validation Accuracy: ~0.77 ± 0.04
 
+- Test Accuracy: ~0.78
 
-📈 Results
-Cross-Validation Accuracy: ~0.77 ± 0.04
+- Metrics: Precision, Recall, F1-score reported in classification report.
 
-Test Accuracy: ~0.78
+---
 
-Metrics: Precision, Recall, F1-score reported in classification report.
+# 👨‍💻 Author
 
-
-👨‍💻 Author
-Name: Your Name
+Name: **Rubina Begum**
 
 Email: your.email@example.com
 
 GitHub: your-username (github.com in Bing)
 
+---
 
-📌 Notes
+# 📌 Notes
+
 This project is for educational purposes and demonstrates end-to-end ML workflow.
 
 Not intended for real medical diagnosis.
+
+```
+
 ```
