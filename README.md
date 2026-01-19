@@ -116,3 +116,5 @@ Not intended for real medical diagnosis.
 ```
 
 ```
+
+Healthcare-focused ML project: Diabetes prediction system built with scikit-learn, featuring preprocessing, model optimization, and a user-friendly Gradio interface. Deployed on Hugging Face Spaces for public access.
