@@ -47,8 +47,10 @@ This project uses the **Pima Indians Diabetes Dataset** from [Kaggle](https://ww
 
 ## 🚀 How to Run Locally
 
+**Clone the repo**
+
 ```bash
-# Clone the repo
+
 git clone https://github.com/your-username/diabetes-prediction-system.git
 cd diabetes-prediction-system
 
