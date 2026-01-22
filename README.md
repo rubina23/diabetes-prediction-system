@@ -84,7 +84,7 @@ python app.py
 
 | Pregnancies | Glucose | BloodPressure | SkinThickness | Insulin | BMI  | DiabetesPedigreeFunction | Age | Prediction   |
 | ----------- | ------- | ------------- | ------------- | ------- | ---- | ------------------------ | --- | ------------ |
-| 2           | 120     | 70            | 25            | 80      | 28.5 | 0.45                     | 35  | Not Diabetic |
+| 2           | 120     | 70            | 25            | 80      | 28.5 | 0.45                     | 35  | Diabetic     |
 | 6           | 165     | 90            | 35            | 200     | 33.2 | 0.75                     | 50  | Diabetic     |
 
 ---
