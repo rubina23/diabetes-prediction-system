@@ -103,10 +103,6 @@ python app.py
 
 Name: **Rubina Begum**
 
-Email: your.email@example.com
-
-GitHub: your-username (github.com in Bing)
-
 ---
 
 # 📌 Notes
